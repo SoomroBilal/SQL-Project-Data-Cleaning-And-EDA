@@ -1,2 +1,2 @@
 # SQL-Project-Data-Cleaning-EDA
-This project demonstrates SQL-based data exploration and analysis techniques using real-world datasets to uncover insights and trends.
+A SQL project showcasing data cleaning and exploratory data analysis (EDA) to uncover insights from raw datasets.
